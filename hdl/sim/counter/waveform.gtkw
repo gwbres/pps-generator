@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Wed Aug  4 08:28:48 2021
+[*]
+[dumpfile] "/hdd/git/pps-generator/hdl/sim/counter/counter.vcd"
+[dumpfile_mtime] "Wed Aug  4 08:28:19 2021"
+[dumpfile_size] 41577
+[savefile] "/hdd/git/pps-generator/hdl/sim/counter/waveform.gtkw"
+[timestart] 0
+[size] 1280 915
+[pos] -1 -1
+*-29.000000 61000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 208
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 264
+@28
+counter.clk
+counter.reset
+counter.enable
+@29
+counter.dly_en
+@22
+counter.dly_value[6:0]
+counter.dly_r[6:0]
+counter.count_r[6:0]
+@28
+counter.sig
+[pattern_trace] 1
+[pattern_trace] 0
